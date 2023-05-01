@@ -13,12 +13,12 @@
 
 * 유저 이름 설정하기
 
-            git config --global user.name"kgy424"
+            git config --global user.name"hyo0o0o"
                   
                   
 * 유저 이메일 설정하기(반드시 github에 가입한 이메일 주소와 동일한 주소 기입)
                   
-            git config --global user.email "kgy424@naver.com"
+            git config --global user.email "hy84770@gmail.com"
             
 * 내 정보 확인하기
 
@@ -43,7 +43,7 @@
 
 * github에 repository를 만들고 그 주소와 연결하기(리드미 생성금지)
 
-      git remote add origin https://github.com/kgy424/css_flex.git
+      git remote add origin https://github.com/hyo0o0o/css_flex.git
       
 * 연결 확인(사용 안 해도 되는데 혹시나 싶자너~)
 
