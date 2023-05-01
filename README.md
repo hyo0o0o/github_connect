@@ -48,3 +48,8 @@
 * 연결 확인(사용 안 해도 되는데 혹시나 싶자너~)
 
       git remote -v
+      
+* github에 올리기
+
+      git push origin master
+      
