@@ -65,3 +65,21 @@
 2. 다시 push 해야한다
 
             pit push origin master
+            
+            
+------------------------------------------------------------
+
+# Github 협업하는 방법
+
+1. 소스코드 다운로드
+
+      git clone 주소
+      
+      git clone 주소쓰기
+      
+      2. 브랜치(branch) 만들기
+
+      git checkout -b "kim"
+      
+
+      ![image](https://github.com/hyo0o0o/github_connect/assets/129016961/ae54d907-0f73-41e9-9214-d91782cdd0ea)
